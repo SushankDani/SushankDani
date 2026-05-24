@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SushankDani
-- 👀 I’m interested in Machine Learning, Artifical Intelligence & Computer Vision.
+- 👀 I’m interested in Machine Learning, Artifical Intelligence, Computer Vision & DevOps
 - 💞️ I’m looking to collaborate on real time problem solving statement.
 - 📫 How to reach me via LinkedIn
 
